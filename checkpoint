@@ -1,0 +1,2 @@
+model_checkpoint_path: "pdNetNpz2-2.data"
+all_model_checkpoint_paths: "pdNetNpz2-2.data"

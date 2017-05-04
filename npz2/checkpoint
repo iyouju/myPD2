@@ -1,0 +1,2 @@
+model_checkpoint_path: "simAlex5-5.data"
+all_model_checkpoint_paths: "simAlex5-5.data"
